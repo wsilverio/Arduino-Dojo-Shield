@@ -12,21 +12,21 @@
 #define GH_BOT_1_PIN A0
 #define GH_BOT_2_PIN A2
 // LED RGB
-#define GH_RGB_R_PIN D6
-#define GH_RGB_G_PIN D5
-#define GH_RGB_B_PIN D3
+#define GH_RGB_R_PIN 6
+#define GH_RGB_G_PIN 5
+#define GH_RGB_B_PIN 3
 // LEDs Charlieplexing 
-#define GH_CPLEX_0_PIN D2
-#define GH_CPLEX_1_PIN D4
-#define GH_CPLEX_2_PIN D7
+#define GH_CPLEX_0_PIN 2
+#define GH_CPLEX_1_PIN 4
+#define GH_CPLEX_2_PIN 7
 // Servos
-#define GH_SERVO_0_PIN D12
-#define GH_SERVO_1_PIN D9
-#define GH_SERVO_2_PIN D8
+#define GH_SERVO_0_PIN 12
+#define GH_SERVO_1_PIN 9
+#define GH_SERVO_2_PIN 8
 // Shift-register
-#define GH_SS_PIN D10
-#define GH_SCK_PIN D13
-#define GH_MOSI_PIN D11
+#define GH_SS_PIN 10
+#define GH_SCK_PIN 13
+#define GH_MOSI_PIN 11
 // Display Segmentos
 #define GH_DISPLAY_SEG_A 0b00001000
 #define GH_DISPLAY_SEG_B 0b00000001
